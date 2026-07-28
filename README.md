@@ -1,32 +1,8 @@
 <h1 align="center">Hi, I'm Anukool 👋</h1>
 
-```
-
-++=+=:-============+===*#**%%@@%=--------+.-.    anukool@panjab-university
-=====:-+=========+=: .::.. .:-++=====---==.-.    ---------------------------
-=====:=+=+++++++=-:             -+========.-.    OS: Human (Third-year Build)
-*****=*#***++*#*:  .             =#******+.*:    Host: UIET, Panjab University
-@@@@@%@@@@@*#@*.     :*+--==-:   :#@@@@@@%-%-    Degree: Electronics & Comm. Eng.
-%%%%%*%%%%%**%-    .=*@@%%%%%*+:  :#%%%%%#-#:    ---------------------------
-+++++-+***++++.   .+#%%%%%%%%#*=   -+++++=.=.    Focus.......: Full-Stack & Backend Dev
-***+=:=++=++++.   :==:.:==-::-==.  -+=++==.-.    Frontend....: React, Next.js, TypeScript
-***+=:=++++*+*=  .-=-..:-*-:::-=-. ++==+==.-.    Backend.....: Node.js, Express
-****+-=+****+**=  +##****%****#*- -+++++==.-.    Languages...: JavaScript, TypeScript, Python, C++
-*****-*****+****::=*##*=:--=*##+-.=*+++++=.-.    ---------------------------
-#%%%%%@@%%%#%%%%+:=-=====-======-=%%%%%%%#:=.    Hobbies.Code: Competitive Programming
-%####+#%#########=-+====-----==+-+*****+++.=.                 (Codeforces, CodeChef, LeetCode)
-%#%%%=+%%%%#%%%%%%*===+*+-=+===-*%%####**+.-.    Hobbies.OSS.: Hacktoberfest contributions
-*++==-+=-=*%#**+=-#*::........::-===--=-:-.-.    ---------------------------
-*+-:-:+-.:*@#*#-..++:..    ..:-: ..::::..:.:     Currently...: Building KrishiSaarthi
-#*+=+-==-=%@##%-    ::::..:::-=:    .--:::.:                   (multi-agent farm risk &
-%##*+:=---*%*=-    :-::::::::-==     .----.:                   market planner)
-%*+=-:=:.::.      .++-::::::-==-         . :     ---------------------------
-%+--:..           .:++-:::----:.                 Contact.....: github.com/ANUKOOL324
-#=.             .::::::.    .....                
-*:             .----:::::...:::::.               
-+.             :--:::::::--::.:...               
-
-```
+<p align="center">
+  <img src="./profile-card.png" alt="Anukool Pandey neofetch card" width="800" />
+</p>
 
 <h3 align="center">🚀 About Me</h3>
 
