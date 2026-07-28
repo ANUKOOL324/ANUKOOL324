@@ -5,6 +5,8 @@
 .value { fill: #a5d6ff; }
 .cc { fill: #6e7681; }
 text, tspan { white-space: pre; }
+.btn { fill: #238636; }
+.btn-label { fill: #ffffff; font-size: 14px; }
 </style>
 <rect x="0.5" y="0.5" width="1117" height="517" fill="#0d1117" stroke="#30363d" rx="14"/>
 <text x="15" y="30" fill="#c9d1d9">
@@ -34,7 +36,7 @@ text, tspan { white-space: pre; }
 <tspan x="15" y="490">                                             </tspan>
 </text>
 <text x="473" y="30" fill="#c9d1d9">
-<tspan x="473" y="30">anukool@github <tspan class="cc">---------------------------------------------</tspan></tspan>
+<tspan x="473" y="30">Anukool Pandey <tspan class="cc">---------------------------------------------</tspan></tspan>
 <tspan x="473" y="50"><tspan class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Full-Stack &amp; Backend Developer</tspan></tspan>
 <tspan x="473" y="70"><tspan class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Real-Time Systems, Agentic AI &amp; RAG</tspan></tspan>
 <tspan x="473" y="90"><tspan class="cc">. </tspan><tspan class="key">Domains</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Backend Engineering &amp; Data Science</tspan></tspan>
@@ -47,16 +49,18 @@ text, tspan { white-space: pre; }
 <tspan x="473" y="230"><tspan class="cc">. </tspan><tspan class="key">Data</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">PostgreSQL, MongoDB, Redis</tspan></tspan>
 <tspan x="473" y="250"><tspan class="cc">. </tspan><tspan class="key">AI/Data</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">RAG, Pandas, NumPy, Seaborn</tspan></tspan>
 <tspan x="473" y="270"><tspan class="cc">. </tspan><tspan class="key">Tools</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Git, Docker, Prisma, Power BI</tspan></tspan>
-<tspan x="473" y="290"><tspan class="cc">. </tspan></tspan>
-<tspan x="473" y="310">- Projects <tspan class="cc">-------------------------------------------------</tspan></tspan>
-<tspan x="473" y="330"><tspan class="cc">. </tspan><tspan class="key">StarSync</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">realtime collaboration platform</tspan></tspan>
-<tspan x="473" y="350"><tspan class="cc">. </tspan><tspan class="key">Concious</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">second-brain search + RAG chatbot</tspan></tspan>
-<tspan x="473" y="370"><tspan class="cc">. </tspan><tspan class="key">KrishiSaarthi</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">multi-agent farm risk &amp; market planner</tspan></tspan>
-<tspan x="473" y="390"><tspan class="cc">. </tspan></tspan>
-<tspan x="473" y="410">- More <tspan class="cc">-----------------------------------------------------</tspan></tspan>
-<tspan x="473" y="430"><tspan class="cc">. </tspan><tspan class="key">Open Source</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Hacktoberfest 2024 &amp; 2025</tspan></tspan>
-<tspan x="473" y="450"><tspan class="cc">. </tspan>                        <tspan class="value">Supercontributor, 30+ PRs merged</tspan></tspan>
-<tspan x="473" y="470"><tspan class="cc">. </tspan></tspan>
-<tspan x="473" y="490"><tspan class="cc">. </tspan><tspan class="key">Contact</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">github.com/ANUKOOL324</tspan></tspan>
+<tspan x="473" y="290">- More <tspan class="cc">-----------------------------------------------------</tspan></tspan>
+<tspan x="473" y="310"><tspan class="cc">. </tspan><tspan class="key">Open Source</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Hacktoberfest 2024 &amp; 2025</tspan></tspan>
+<tspan x="473" y="330"><tspan class="cc">. </tspan>                        <tspan class="value">Supercontributor, 30+ PRs merged</tspan></tspan>
+<tspan x="473" y="350"><tspan class="cc">. </tspan></tspan>
+<tspan x="473" y="370"><tspan class="cc">. </tspan>                        <tspan class="value">Open-source contributor with 100+</tspan></tspan>
+<tspan x="473" y="390"><tspan class="cc">. </tspan>                        <tspan class="value">pull requests across diverse domains</tspan></tspan>
+<tspan x="473" y="410"><tspan class="cc">. </tspan>                        <tspan class="value">including Quantum Computing, backend</tspan></tspan>
+<tspan x="473" y="430"><tspan class="cc">. </tspan>                        <tspan class="value">development, React, Python, and</tspan></tspan>
+<tspan x="473" y="450"><tspan class="cc">. </tspan>                        <tspan class="value">security-focused repositories.</tspan></tspan>
 </text>
+<a href="https://portfolio-template-indol-one.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <rect class="btn" x="473" y="464" width="168" height="28" rx="6"/>
+  <text class="btn-label" x="520.1" y="483">Portfolio</text>
+</a>
 </svg>
