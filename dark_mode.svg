@@ -4,9 +4,8 @@
 .key { fill: #ffa657; }
 .value { fill: #a5d6ff; }
 .cc { fill: #6e7681; }
+.quote { fill: #6e7681; font-size: 13px; font-style: italic; }
 text, tspan { white-space: pre; }
-.btn { fill: #238636; }
-.btn-label { fill: #ffffff; font-size: 14px; }
 </style>
 <rect x="0.5" y="0.5" width="1117" height="517" fill="#0d1117" stroke="#30363d" rx="14"/>
 <text x="15" y="30" fill="#c9d1d9">
@@ -33,8 +32,8 @@ text, tspan { white-space: pre; }
 <tspan x="15" y="430">#=.             .::::::.    .....            </tspan>
 <tspan x="15" y="450">*:             .----:::::...:::::.           </tspan>
 <tspan x="15" y="470">+.             :--:::::::--::.:...           </tspan>
-<tspan x="15" y="490">                                             </tspan>
 </text>
+<text class="quote" x="81.14999999999998" y="490">Even in blurred vision, I remain clear.</text>
 <text x="473" y="30" fill="#c9d1d9">
 <tspan x="473" y="30">Anukool Pandey <tspan class="cc">---------------------------------------------</tspan></tspan>
 <tspan x="473" y="50"><tspan class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Full-Stack &amp; Backend Developer</tspan></tspan>
@@ -59,8 +58,4 @@ text, tspan { white-space: pre; }
 <tspan x="473" y="430"><tspan class="cc">. </tspan>                        <tspan class="value">development, React, Python, and</tspan></tspan>
 <tspan x="473" y="450"><tspan class="cc">. </tspan>                        <tspan class="value">security-focused repositories.</tspan></tspan>
 </text>
-<a href="https://portfolio-template-indol-one.vercel.app/" target="_blank" rel="noopener noreferrer">
-  <rect class="btn" x="473" y="464" width="168" height="28" rx="6"/>
-  <text class="btn-label" x="520.1" y="483">Portfolio</text>
-</a>
 </svg>
