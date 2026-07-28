@@ -2,13 +2,17 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./dark_mode.svg">
     <source media="(prefers-color-scheme: light)" srcset="./light_mode.svg">
-    <img alt="Anukool Pandey - GitHub profile" src="./dark_mode.svg>
+    <img alt="Anukool Pandey - GitHub profile" src="./dark_mode.svg">
   </picture>
 </p>
 
 <p align="center">
   <a href="https://portfolio-template-indol-one.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-238636?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-238636?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://anukool324.pythonanywhere.com/posts">
+    <img src="https://img.shields.io/badge/Blog-0969da?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" />
   </a>
 </p>
 
