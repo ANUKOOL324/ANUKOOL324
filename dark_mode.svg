@@ -34,29 +34,29 @@ text, tspan { white-space: pre; }
 <tspan x="15" y="490">                                             </tspan>
 </text>
 <text x="473" y="30" fill="#c9d1d9">
-<tspan x="473" y="30">anukool@panjab-university <tspan class="cc">----------------------------------</tspan></tspan>
-<tspan x="473" y="50"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Human (Third-year Build)</tspan></tspan>
-<tspan x="473" y="70"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">UIET, Panjab University</tspan></tspan>
-<tspan x="473" y="90"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">Electronics &amp; Communication Eng.</tspan></tspan>
-<tspan x="473" y="110"><tspan class="cc">. </tspan><tspan class="key">Shell</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">PowerShell, bash</tspan></tspan>
+<tspan x="473" y="30">anukool@github <tspan class="cc">---------------------------------------------</tspan></tspan>
+<tspan x="473" y="50"><tspan class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Full-Stack &amp; Backend Developer</tspan></tspan>
+<tspan x="473" y="70"><tspan class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Real-Time Systems, Agentic AI &amp; RAG</tspan></tspan>
+<tspan x="473" y="90"><tspan class="cc">. </tspan><tspan class="key">Domains</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Backend Engineering &amp; Data Science</tspan></tspan>
+<tspan x="473" y="110"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">TypeScript, Python, C++, SQL</tspan></tspan>
 <tspan x="473" y="130"><tspan class="cc">. </tspan></tspan>
-<tspan x="473" y="150">- Stack <tspan class="cc">----------------------------------------------------</tspan></tspan>
-<tspan x="473" y="170"><tspan class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Full-Stack &amp; Backend Dev</tspan></tspan>
-<tspan x="473" y="190"><tspan class="cc">. </tspan><tspan class="key">Frontend</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">React, Next.js, TypeScript</tspan></tspan>
-<tspan x="473" y="210"><tspan class="cc">. </tspan><tspan class="key">Backend</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Node.js, Express, MongoDB</tspan></tspan>
-<tspan x="473" y="230"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">JavaScript, TypeScript, Python, C++</tspan></tspan>
-<tspan x="473" y="250"><tspan class="cc">. </tspan><tspan class="key">Tools</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Git, Docker, Tailwind CSS</tspan></tspan>
-<tspan x="473" y="270"><tspan class="cc">. </tspan></tspan>
-<tspan x="473" y="290">- Interests <tspan class="cc">------------------------------------------------</tspan></tspan>
-<tspan x="473" y="310"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Code</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Competitive Programming</tspan></tspan>
-<tspan x="473" y="330"><tspan class="cc">. </tspan>                       <tspan class="value">(Codeforces, CodeChef, LeetCode)</tspan></tspan>
-<tspan x="473" y="350"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">OSS</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Hacktoberfest 2024, 2025</tspan></tspan>
-<tspan x="473" y="370"><tspan class="cc">. </tspan><tspan class="key">Currently</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Building KrishiSaarthi</tspan></tspan>
-<tspan x="473" y="390"><tspan class="cc">. </tspan>                       <tspan class="value">(multi-agent farm risk &amp; market planner)</tspan></tspan>
-<tspan x="473" y="410"><tspan class="cc">. </tspan></tspan>
-<tspan x="473" y="430">- Stats <tspan class="cc">----------------------------------------------------</tspan></tspan>
-<tspan x="473" y="450"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">56</tspan>   |   <tspan class="key">Stars</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">9</tspan></tspan>
-<tspan x="473" y="470"><tspan class="cc">. </tspan><tspan class="key">Followers</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">4</tspan>    |   <tspan class="key">Following</tspan>:<tspan class="cc"> . </tspan><tspan class="value">81</tspan></tspan>
+<tspan x="473" y="150">- Engineering Stack <tspan class="cc">----------------------------------------</tspan></tspan>
+<tspan x="473" y="170"><tspan class="cc">. </tspan><tspan class="key">Frontend</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">React, Next.js, TypeScript</tspan></tspan>
+<tspan x="473" y="190"><tspan class="cc">. </tspan><tspan class="key">Backend</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Node.js, Express, Flask</tspan></tspan>
+<tspan x="473" y="210"><tspan class="cc">. </tspan>                        <tspan class="value">Socket.IO, WebSocket</tspan></tspan>
+<tspan x="473" y="230"><tspan class="cc">. </tspan><tspan class="key">Data</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">PostgreSQL, MongoDB, Redis</tspan></tspan>
+<tspan x="473" y="250"><tspan class="cc">. </tspan><tspan class="key">AI/Data</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">RAG, Pandas, NumPy, Seaborn</tspan></tspan>
+<tspan x="473" y="270"><tspan class="cc">. </tspan><tspan class="key">Tools</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Git, Docker, Prisma, Power BI</tspan></tspan>
+<tspan x="473" y="290"><tspan class="cc">. </tspan></tspan>
+<tspan x="473" y="310">- Projects <tspan class="cc">-------------------------------------------------</tspan></tspan>
+<tspan x="473" y="330"><tspan class="cc">. </tspan><tspan class="key">StarSync</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">realtime collaboration platform</tspan></tspan>
+<tspan x="473" y="350"><tspan class="cc">. </tspan><tspan class="key">Concious</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">second-brain search + RAG chatbot</tspan></tspan>
+<tspan x="473" y="370"><tspan class="cc">. </tspan><tspan class="key">KrishiSaarthi</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">multi-agent farm risk &amp; market planner</tspan></tspan>
+<tspan x="473" y="390"><tspan class="cc">. </tspan></tspan>
+<tspan x="473" y="410">- More <tspan class="cc">-----------------------------------------------------</tspan></tspan>
+<tspan x="473" y="430"><tspan class="cc">. </tspan><tspan class="key">Open Source</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Hacktoberfest 2024 &amp; 2025</tspan></tspan>
+<tspan x="473" y="450"><tspan class="cc">. </tspan>                        <tspan class="value">Supercontributor, 30+ PRs merged</tspan></tspan>
+<tspan x="473" y="470"><tspan class="cc">. </tspan></tspan>
 <tspan x="473" y="490"><tspan class="cc">. </tspan><tspan class="key">Contact</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">github.com/ANUKOOL324</tspan></tspan>
 </text>
 </svg>
