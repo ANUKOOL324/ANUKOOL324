@@ -10,7 +10,6 @@
   <a href="https://portfolio-template-indol-one.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-238636?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  &nbsp;
   <a href="https://anukool324.pythonanywhere.com/posts">
     <img src="https://img.shields.io/badge/Blog-0969da?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" />
   </a>
